@@ -1,0 +1,9 @@
+{
+    "files": {
+        "index.js": "47caad8737ee18561d3b78adf849dc3c4fa9155f21cd2c64b7a1abbbfcd8ca9d",
+        "module.json": "7a7706b37e51a36d0b8877010e9bea422bb9dae44a25c50cb6a339084826d96c"
+    },
+    "defs": {
+        "C_UPDATE_AFK_STATUS": 1
+    }
+}

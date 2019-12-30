@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "name": "DontLeakMe-CLI",
+    "author": "Owyn | Neko",
+    "description": "Never get kicked again / dont let your afk status leaked",
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/DontLeakMe-CLI/master/"]
+}
